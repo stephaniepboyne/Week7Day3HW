@@ -44,6 +44,7 @@ h1 {
   text-align: center;
   font-family: 'Marck Script', cursive;
   color: rgb(70, 70, 70);
+  text-shadow: 1px 1px gray;
 
 }
 
@@ -53,6 +54,8 @@ h1 {
   text-align: center;
   padding-bottom: 20px;
   font-size: medium;
+  text-shadow: 0.5px 0.5px gray;
+
 }
 
 .img {

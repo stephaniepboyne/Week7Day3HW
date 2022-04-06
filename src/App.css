@@ -36,3 +36,64 @@
     transform: rotate(360deg);
   }
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Marck+Script&family=Varela+Round&display=swap');
+
+h1 {
+  text-align: center;
+  font-family: 'Marck Script', cursive;
+  color: rgb(70, 70, 70);
+
+}
+
+.list {
+  color: rgb(70, 70, 70);
+  font-family: 'Gloria Hallelujah', cursive;
+  text-align: center;
+  padding-bottom: 20px;
+  font-size: medium;
+}
+
+.img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 150px;
+  width: auto;
+  margin-bottom: 0px;
+  padding-left: 25px;
+}
+
+.box {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  background-color: rgb(181, 235, 248);
+  border-radius: 50px;
+  padding: 10px;
+}
+
+.button {
+  background-color: yellow;
+  padding: 5px 10px;
+  border-radius: 20px;
+  border-color: white;
+  border-style: outset;
+}
+
+.button > a {
+  text-decoration: none;
+  color: rgb(70, 70, 70);
+  font-size: x-small;
+  font-weight: bold;
+}
+
+.cover {
+  height: 70px;
+  border-radius: 10px;
+  border-color: white;
+  border-style:outset;
+}

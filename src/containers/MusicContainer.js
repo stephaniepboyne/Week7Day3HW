@@ -22,7 +22,11 @@ const MusicContainer = () => {
 
     return ( 
         <>
-            { <SongList songs={music}></SongList> }
+        <h1>The U.K. Top 20 Songs</h1>
+        <br></br>
+        <img src='https://c.tenor.com/rJpCgvQJgsEAAAAi/music.gif' class='img'/>
+            <div class='box'>{ <SongList songs={music}></SongList> }</div>
+
         </>
     )
   

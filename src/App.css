@@ -91,6 +91,10 @@ h1 {
   font-weight: bold;
 }
 
+.button > a:hover {
+  color: white;
+}
+
 .cover {
   height: 70px;
   border-radius: 10px;
